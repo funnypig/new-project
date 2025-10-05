@@ -15,6 +15,7 @@ Sample output:
  
 security_report.log
 
+```
   Here's the security analysis of the provided Kubernetes manifest:           
                                                                               
    File Name       | Title            | Short Descripti… | Fix                
@@ -121,4 +122,4 @@ security_report.log
                    |                  |                  | external secrets   
                    |                  |                  | management         
                    |                  |                  | solution.          
-
+```

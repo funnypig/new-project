@@ -1,0 +1,6 @@
+act as a senior devops engineer with experience in go lang
+your task is to analyze yaml manifests in "./yaml" directory for security issues
+output summary table with columns: file name, title (title of security issue), short description (of the issue), fix (how to fix it)
+
+yaml file:
+

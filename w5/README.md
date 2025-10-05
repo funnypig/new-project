@@ -123,3 +123,8 @@ security_report.log
                    |                  |                  | management         
                    |                  |                  | solution.          
 ```
+
+Auto checker:
+
+NAME:PROMPT:DESCRIPTION:EXAMPLE
+security_analysis|prompt.txt|security_analysis|https://github.com/funnypig/new-project/blob/main/w5/yaml/app-secret.yaml
